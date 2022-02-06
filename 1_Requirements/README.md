@@ -1,5 +1,7 @@
-# Requirements
+# Description
+ * This Project is an Engineering Calculator and which is extremely useful to students and will same them time while doing some complex calculations    
 
+# Requirements
 
 <!-- Tables -->
 | ID | High Level Requirements |
@@ -22,3 +24,6 @@
 | H3L1 | Set the initial Database to Zero |  | H4L1 | Calculate the equation according to input data |
 | H3L2 | Store Data inserted data into the Database |  | H4L2 | Print the final result to the screen |
 
+## SWOT analysis
+
+## 4W's & 1H
