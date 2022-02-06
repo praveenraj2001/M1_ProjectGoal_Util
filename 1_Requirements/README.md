@@ -25,7 +25,7 @@
 | H3L1 | Set the initial Database to Zero |  | H4L1 | Calculate the equation according to input data |
 | H3L2 | Store Data inserted data into the Database |  | H4L2 | Print the final result to the screen |
 
-## SWOT analysis
-
-## 4W's & 1H
+## S.W.O.T analysis
+![SWOT]()
+## 5W's & 1H
 
