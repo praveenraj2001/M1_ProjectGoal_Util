@@ -31,5 +31,5 @@
 
 ## 5W's & 1H
 ### This below image represents the 5W's &1H analysis that I've done
-![5W's & 1H](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/1_Requirements/sw1h.png)
+![5W's & 1H](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/1_Requirements/5w1h.png)
 
