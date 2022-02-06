@@ -12,52 +12,20 @@
 | HL3 | Store Data inserted |
 | HL4 | Calculate the Different operations |
 
-<table>
-<tr><th> Low Level Requirements </th><th> Low Level Requirements </th></tr>
-<tr><td>
 
-| ID | Low Level Requirements for HL1| 
-| -------- | -------------- |  
-| H1L1 | Give all the options available| 
-| H1L2 | Give all the Sub-options available| 
-
-</td><td>
-
-|ID | Low Level Requirements for HL2|
-|-------- | -------------- |
-|H2L1 | Get the input Option |
-|H2L2 | Get the variable values according to Selected option |
-
-</td></tr> </table>
-
-| ID | Low Level Requirements for HL3|  
-| -------- | -------------- | 
-| H3L1 | Set the initial Database to Zero |  
-| H3L2 | Store Data inserted data into the Database |  
-
-|ID | Low Level Requirements for HL4|
-| -------- | -------------- |
-| H4L1 | Calculate the equation according to input data |
-| H4L2 | Print the final result to the screen |
+| ID | Low Level Requirements for HL1|  |ID | Low Level Requirements for HL2|
+| -------- | -------------- | ---- |-------- | -------------- |
+| H1L1 | Give all the options available|  |H2L1 | Get the input Option |
+| H1L2 | Give all the Sub-options available|  |H2L2 | Get the variable values according to Selected option |
 
 
+
+| ID | Low Level Requirements for HL3|  |ID | Low Level Requirements for HL4|
+| -------- | -------------- | ---- | -------- | -------------- |
+| H3L1 | Set the initial Database to Zero |  | H4L1 | Calculate the equation according to input data |
+| H3L2 | Store Data inserted data into the Database |  | H4L2 | Print the final result to the screen |
 
 ## SWOT analysis
 
 ## 4W's & 1H
 
-<table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
-<tr><td>
-
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
-
-</td><td>
-
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
-
-</td></tr> </table>
