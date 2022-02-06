@@ -1,1 +1,1 @@
-![plot](./M1_ProjectGoal_Util/0_Certificates/NDG.png)
+![plot](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/0_Certificates/NDG.png)
