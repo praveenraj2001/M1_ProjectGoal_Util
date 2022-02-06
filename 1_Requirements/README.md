@@ -15,17 +15,10 @@
 | LL1 | Give all the options available|  |LL1 | Get the input Option |
 | LL2 | Give all the Sub-options available|  |LL2 | Get the variable values according to Selected option |
 
-| ID | Low Level Requirements for HL2|
-| -------- | -------------- |
-| LL1 | Get the input Option |
-| LL2 | Get the variable values according to Selected option |
 
-| ID | Low Level Requirements for HL3|
-| -------- | -------------- |
-| LL1 | Set the initial Database to Zero |
-| LL2 | Store Data inserted into the Database |
 
-| ID | Low Level Requirements for HL4|
-| -------- | -------------- |
-| LL1 | Set the initial Database to Zero |
-| LL2 | Store Data inserted into the Database |
+| ID | Low Level Requirements for HL3|  |ID | Low Level Requirements for HL4|
+| -------- | -------------- | ---- | -------- | -------------- |
+| LL1 | Set the initial Database to Zero |  | LL1 | Set the initial Database to Zero |
+| LL2 | Store Data inserted into the Database |  | LL2 | Store Data inserted into the Database |
+
