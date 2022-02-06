@@ -11,7 +11,7 @@
 
 
 | ID | Low Level Requirements for HL1|.  |ID | Low Level Requirements for HL2|
-| -------- | -------------- | . |-------- | -------------- |
+| -------- | -------------- | ---- |-------- | -------------- |
 | LL1 | Give all the options available| . |LL1 | Get the input Option |
 | LL2 | Give all the Sub-options available| . |LL2 | Get the variable values according to Selected option |
 
