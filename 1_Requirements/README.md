@@ -13,10 +13,10 @@
 | HL4 | Calculate the Different operations |
 
 
-| ID | Low Level Requirements for HL1|  |ID | Low Level Requirements for HL2|
+| ID | Low Level Requirements for HL1|       |ID | Low Level Requirements for HL2|
 | -------- | -------------- | ---- |-------- | -------------- |
-| H1L1 | Give all the options available|  |H2L1 | Get the input Option |
-| H1L2 | Give all the Sub-options available|  |H2L2 | Get the variable values according to Selected option |
+| H1L1 | Give all the options available|       |H2L1 | Get the input Option |
+| H1L2 | Give all the Sub-options available|       |H2L2 | Get the variable values according to Selected option |
 
 
 
