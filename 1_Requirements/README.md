@@ -22,7 +22,6 @@
 | H1L2 | Give all the Sub-options available| 
 
 </td><td>
-</td><td>
 
 |ID | Low Level Requirements for HL2|
 |-------- | -------------- |
