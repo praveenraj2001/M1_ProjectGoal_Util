@@ -21,12 +21,14 @@
 | H1L1 | Give all the options available| 
 | H1L2 | Give all the Sub-options available| 
 
+</td><td></td><td>
+
 |ID | Low Level Requirements for HL2|
 |-------- | -------------- |
 |H2L1 | Get the input Option |
 |H2L2 | Get the variable values according to Selected option |
 
-</td><td></td><td>
+</td></tr> </table>
 
 | ID | Low Level Requirements for HL3|  
 | -------- | -------------- | 
@@ -38,7 +40,7 @@
 | H4L1 | Calculate the equation according to input data |
 | H4L2 | Print the final result to the screen |
 
-</td></tr> </table>
+
 
 ## SWOT analysis
 
