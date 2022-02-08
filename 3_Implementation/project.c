@@ -16,12 +16,12 @@ float mean(float arr[],int n){
 
 float mode(float arr[], int n) 
 {
-    int i, j , count;
+    int i, j ;
      int maxCount = 0;
      float  maxElement;
       
     for(i = 0; i< n; i++) 
-    {
+    { int count;
         count = 1;
         for(j = i+1; j < n; j++)  
         {
@@ -80,15 +80,15 @@ float trapezoid(float a, float b, float h){
 
 //sphere
 float sphere_vol(float radius){
-    float volume;float a=4;float b=3;
-    volume = ((a/b)*pi*radius*radius*radius);
+    float volume;float a=4;float b=3;float c=a/b;
+    volume = ((c)*pi*radius*radius*radius);
     return volume;
     
 }
 
 float sphere_area(float radius){
     float area;
-    area = 4*pi*radius*radius;
+    area = 4*pi*pow(radius,2);
     return area;
 }
 
@@ -121,22 +121,19 @@ float cylinder_area(float radius, float height){
 //algebra
 //(a+b)^3
 float a3_b3 (float a,float b){
-    float result;
-    result = pow((a+b),3);
+    
+    return pow((a+b),3);
 }
 //(a-b)^3
 float S_a3_b3 (float a,float b){
-    float result;
-    result = pow((a-b),3);
+    return pow((a-b),3);
 }
 //(a+b)^4
 float a4_b4(float a, float b){
-    float result;
-    result = pow((a+b),4);
+    return pow((a+b),4);
 }
 
 //(a+b)^5
 float a5_b5(float a, float b){
-    float result;
-    result = pow((a+b),5);
+    return pow((a+b),5);
 }

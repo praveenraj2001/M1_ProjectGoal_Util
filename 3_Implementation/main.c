@@ -3,7 +3,7 @@
 
 
 
-int dumb_main(){
+int main(){
     int s1;
     printf("These are the available operations"
             "\n* for  STATISTICS press 1"
