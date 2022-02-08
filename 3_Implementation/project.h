@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#define pi 3.14159
+#define pi 3.14159265359
 //
 float mean(float arr[],int n);
 float median(float arr[],int n);

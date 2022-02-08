@@ -122,21 +122,21 @@ float cylinder_area(float radius, float height){
 //(a+b)^3
 float a3_b3 (float a,float b){
     float result;
-    result = a*a*a + 3*a*a*b + 3*a*b*b + b*b*b;
+    result = pow((a+b),3);
 }
 //(a-b)^3
 float S_a3_b3 (float a,float b){
     float result;
-    result = a*a*a - 3*a*a*b + 3*a*b*b + b*b*b;
+    result = pow((a-b),3);
 }
 //(a+b)^4
 float a4_b4(float a, float b){
     float result;
-    result = a*a*a*a + 4*a*a*a*b + 6*a*a*b*b + 4*a*b*b*b + b*b*b*b;
+    result = pow((a+b),4);
 }
 
 //(a+b)^5
 float a5_b5(float a, float b){
     float result;
-    result = a*a*a*a*a + 5*a*a*a*a*b + 10*a*a*a*b*b + 10*a*a*b*b*b + 5*a*b*b*b*b +b*b*b*b*b;
+    result = pow((a+b),5);
 }
