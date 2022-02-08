@@ -28,6 +28,6 @@
 | 04 | Check (a+b)^5 |  a=23 , b= 48  | 1804229376.000000 | 1804229376.000000 |
 
 ### Best Practices
-  *Checked multiple range of inputs
-  *Compared the data obtained with calculator
-  *reasoned with the values because we have high precision than the calculator itself
+  * Checked multiple range of inputs
+  * Compared the data obtained with calculator
+  * reasoned with the values because we have high precision than the calculator itself
