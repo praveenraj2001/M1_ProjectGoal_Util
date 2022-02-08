@@ -1,10 +1,9 @@
 
-# Test Plan
-## Test plan and output
+# Test plan and output
 
-## Test plan is created and verified on both manual and automated manner
+#### Test plan is created and verified on both manual and automated manner
 
-## Here below are the some of the *unity test/ unity framework* test plans there are so many but I have only mentiones some of the test cases here
+#### Here below are the some of the *unity test/ unity framework* test plans there are so many but I have only mentiones some of the test cases here
 
 | Test ID (for statistics)| Description | Input | Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
@@ -28,7 +27,7 @@
 | 03 | Check (a+b)^4 |  a=23 , b= 48  | 25411680.000000 | 25411680.000000 |
 | 04 | Check (a+b)^5 |  a=23 , b= 48  | 1804229376.000000 | 1804229376.000000 |
 
-## Best Practices
+### Best Practices
   *Checked multiple range of inputs
   *Compared the data obtained with calculator
   *reasoned with the values because we have high precision than the calculator itself
