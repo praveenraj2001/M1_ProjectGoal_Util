@@ -3,7 +3,7 @@
 
 
 
-int main(){
+int dumb_main(){
     int s1;
     printf("These are the available operations"
             "\n* for  STATISTICS press 1"
@@ -21,7 +21,7 @@ int main(){
                 printf("enter length and elements ");
                 int len1;
                 scanf("%d",&len1);
-                float array1[100]; 
+                float array1[1000]; 
                 for (int i = 0; i < len1; i++)
                     {
                         scanf("%f",&array1[i]);
@@ -45,13 +45,13 @@ int main(){
             
                 printf("Please enter the inputs axis a axis b for ellipse\n");
                 scanf("%f %f",&a1,&b1);
-                printf("Area of ellipse - %f",ellipse(a1,b1));
+                printf("Area of ellipse = %f",ellipse(a1,b1));
                 break;
             case 2: 
             
                 printf("Please enter the trapzoid two parallel sides and height\n");
                 scanf("%f %f %f",&a2,&b2,&h2);
-                printf("Area of trapzoid - %f",trapezoid(a2,b2,h2));
+                printf("Area of trapzoid = %f",trapezoid(a2,b2,h2));
                 break; 
             default:
                 break;
@@ -72,17 +72,17 @@ int main(){
             case 1:
                 printf("Enter radius of SPHERE \n");
                 scanf("%f",&radius1);
-                printf("Volume and Area of SPHERE is %f & %f ",sphere_area(radius1),sphere_vol(radius1));
+                printf("Area and volume of SPHERE is %f & %f ",sphere_area(radius1),sphere_vol(radius1));
                 break;
             case 2:
-                printf("Enter radius of CONE \n");
-                scanf("%f",&radius1);
-                printf("Volume and Area of CONE is %f & %f ",cone_area(radius2,height2),cone_vol(radius2,height2));
+                printf("Enter radius and height of CONE \n");
+                scanf("%f %f",&radius2,&height2);
+                printf("Area and volume of CONE is %f & %f ",cone_area(radius2,height2),cone_vol(radius2,height2));
                 break;
             case 3:
-                printf("Enter radius of CYLINDER \n");
-                scanf("%f",&radius1);
-                printf("Volume and Area of CYLINDER is %f & %f ",cylinder_area(radius2,height2),cylinder_vol(radius2,height2));
+                printf("Enter radius and height of CYLINDER \n");
+                scanf("%f %f",&radius3,&height3);
+                printf("Area and volume of CYLINDER is %f & %f ",cylinder_area(radius3,height3),cylinder_vol(radius3,height3));
                 break;
             default:
                 break;
