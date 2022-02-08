@@ -9,7 +9,7 @@
 
 ## Goal
 * Simple user interface
-* Improve accuracy of the result
+* Improved accuracy of the result
 
 ## Input
 * Choose which option needs to be selected for different operations
@@ -21,4 +21,4 @@
 * Calculate the data and result
 
 ## Output
-* return/display the calculated values
+* Return/display the calculated values
