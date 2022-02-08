@@ -1,4 +1,7 @@
 # Engineering_calculator
+# Description
+ * This Project is an Engineering Calculator and which is extremely useful to students and will save them time while doing some complex calculations 
+
 ## About the code
 | Codacy | Code Inspector | CI | Unity |
 | --- | --- | --- | --- |
