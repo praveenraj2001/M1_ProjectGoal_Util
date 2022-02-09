@@ -1,0 +1,19 @@
+name: Windows C/C++ CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: build
+      run: gcc 3_Implementation/src/project.c -o 3_Implementation/src/project.exe
+    - name: Run
+      run: .\3_Implementation/src/project.exe
