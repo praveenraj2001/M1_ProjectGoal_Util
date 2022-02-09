@@ -21,10 +21,10 @@ endif
 INC=-Iheader\
 -Iunity\
 
-all : $(SRC)
+Build : $(SRC) #remember to use this in .github/workflow
 	gcc $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
-run : all
+run : Build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 
@@ -33,6 +33,8 @@ build_test :
 
 run_test : build_test
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
+
 
 clean:
 	$(RM) $(call FixPath,*.out)
