@@ -1,7 +1,7 @@
 
 
 /**
- * @file project.h
+ * @file project.c
  * @author Nyalam praveenraj 
  * @brief 
  * @version 0.1
