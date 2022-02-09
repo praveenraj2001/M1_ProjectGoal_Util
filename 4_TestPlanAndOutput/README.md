@@ -7,17 +7,17 @@
 
 | Test ID (for selecting)| Description | Input | Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
-| 01 | STATISTICS | 1  | STASTICS inputs|  * [X] |
-| 02 | PLAIN GEOMETRY | 2 | PLAIN GEOMETRY inputs |  * [X] |
-| 03 | MENSURATION | 3 | MENSURATION options | * [X] |
-| 04 | ALGEBRA | 4 | ALGEBRA values | * [X] |
+| 01 | STATISTICS | 1  | STASTICS inputs|  ✓ |
+| 02 | PLAIN GEOMETRY | 2 | PLAIN GEOMETRY inputs |  ✓ |
+| 03 | MENSURATION | 3 | MENSURATION options | ✓ |
+| 04 | ALGEBRA | 4 | ALGEBRA values | ✓ |
 
 | Test ID (for selecting)| Description | Input | Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
-| 01 | MEAN,MEDIAN,MODE | ARRAY , N  | outputs from Mean,median,mode|  * [X] |
-| 02 | ELLIPSE,TRAPEZOID | 1 or 2 for selecting | outputs from Ellipse,Trapezoid |  * [X] |
-| 03 | SPHERE,CONE,CYLINDER | 1 or 2 or 3 for selecting | outputs from sphere,cone,cylinder | * [X] |
-| 04 | (a+b)^3,(a-b)^3,(a+b)^4,(a+b)^5 | a , b | ALGEBRA values | * [X] |
+| 01 | MEAN,MEDIAN,MODE | ARRAY , N  | outputs from Mean,median,mode|  ✓ |
+| 02 | ELLIPSE,TRAPEZOID | 1 or 2 for selecting | outputs from Ellipse,Trapezoid |  ✓ |
+| 03 | SPHERE,CONE,CYLINDER | 1 or 2 or 3 for selecting | outputs from sphere,cone,cylinder | ✓ |
+| 04 | (a+b)^3,(a-b)^3,(a+b)^4,(a+b)^5 | a , b | ALGEBRA values | ✓ |
 
 
 #### Here below are the some of the *unity test/ unity framework* test plans there are so many but I have only mentiones some of the test cases here
