@@ -20,5 +20,6 @@
   ![Low_level_UML Usecase](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/6_ImagesAndVideos/ll_uml.png)
 
   ## Best method followed
-   *
-   *
+   * The best of the best Diagrams are considered
+   * from this Diagrams code is made 
+   * low level and high level both are implimented
