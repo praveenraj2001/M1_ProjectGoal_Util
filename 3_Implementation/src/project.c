@@ -44,7 +44,7 @@ int comp (const void * a, const void * b)
     return ( (int) (*(float*)a - *(float*)b) );
     }
 
-/
+
 float median(float arr[],int n){
     
     float temparr[n],ans;

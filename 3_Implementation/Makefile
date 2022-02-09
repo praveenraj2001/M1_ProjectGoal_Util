@@ -18,7 +18,7 @@ else
    endif
 endif
 
-INC=-Iheader\#this means .h file contains in documentation/inc
+INC=-Iheader\
 -Iunity\
 
 Build : $(SRC) #remember to use this in .github/workflow
