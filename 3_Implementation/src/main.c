@@ -12,6 +12,12 @@ int main(){
             "\n* for  ALGEBRA press 4\n");
 
     scanf("%d",&s1);
+
+    /**
+     * @brief Construct a new switch object, takes 1-4 inputs
+     * for selecting maths options
+     * 
+     */
     switch (s1)
     {
     case 1:
