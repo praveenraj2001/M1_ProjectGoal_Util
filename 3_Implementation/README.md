@@ -1,4 +1,4 @@
-# Documentation Doxygen
+# Doxygen Documentation
 
 ## NOTE
 * HTML link for the same Documentation Doxygen
