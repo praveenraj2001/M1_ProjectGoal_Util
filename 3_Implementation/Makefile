@@ -18,7 +18,7 @@ else
    endif
 endif
 
-INC=-Iheader\
+INC=-I\documentation\inc\
 -Iunity\
 
 Build : $(SRC) #remember to use this in .github/workflow
