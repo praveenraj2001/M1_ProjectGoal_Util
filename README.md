@@ -3,9 +3,9 @@
  * This Project is an Engineering Calculator and which is extremely useful to students and will save them time while doing some complex calculations 
 
 ## About the code
-| Codacy,Codiga | CI | Unity | Code Inspector |
-| --- | --- | --- | --- |
-| [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1edf2417a2e46699e8245f518c674f4)](https://app.codacy.com/organizations/gh/praveenraj2001/repositories) [![Codacy Badge](https://api.codiga.io/project/30931/status/svg)](https://api.codiga.io/project/30931/status/svg) | [![C/C++ CI](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/final_project.yml/badge.svg)](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/final_project.yml)  | [![Unit Testing - Unity](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/test_new.yml/badge.svg)](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/test_new.yml) | [![Unit Testing - Unity](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/unity.yml/badge.sg)](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/unity.yml) |
+| Codacy,Codiga | CI | Unity | Code Inspector | cppCheck |
+| --- | --- | --- | --- | --- |
+| [![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1edf2417a2e46699e8245f518c674f4)](https://app.codacy.com/organizations/gh/praveenraj2001/repositories) [![Codacy Badge](https://api.codiga.io/project/30931/status/svg)](https://api.codiga.io/project/30931/status/svg) | [![C/C++ CI](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/final_project.yml/badge.svg)](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/final_project.yml)  | [![Unit Testing - Unity](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/test_new.yml/badge.svg)](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/test_new.yml) | [![Unit Testing - Unity](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/unity.yml/badge.sg)](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/unity.yml) | [![StaticCheck/cppCheck](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/Static-check.yml/badge.svg)](https://github.com/praveenraj2001/M1_ProjectGoal_Util/actions/workflows/Static-check.yml) |
 
 ## Goal
 * Simple user interface
