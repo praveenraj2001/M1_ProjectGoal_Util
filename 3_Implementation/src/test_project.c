@@ -19,28 +19,28 @@ float arr_3[]={8799,69949,999,35,69949};
 
 
 void test_mean(void){
-    float x=mean(arr_1,n_1);
-     TEST_ASSERT_EQUAL_FLOAT( 2.428571, x);
-    x=mean(arr_2,n_2);
-     TEST_ASSERT_EQUAL_FLOAT( 2.666667, x);
-    x=mean(arr_3,n_3);
-     TEST_ASSERT_EQUAL_FLOAT( 29946.199219, x);
+
+     TEST_ASSERT_EQUAL_FLOAT( 2.428571,mean(arr_1,n_1));
+   
+     TEST_ASSERT_EQUAL_FLOAT( 2.666667, mean(arr_2,n_2));
+    
+     TEST_ASSERT_EQUAL_FLOAT( 29946.199219, mean(arr_3,n_3));
 }
 void test_median(void){
-     float x=median(arr_1,n_1);
-     TEST_ASSERT_EQUAL_FLOAT( 2, x);
-    x=median(arr_2,n_2);
-     TEST_ASSERT_EQUAL_FLOAT( 2.900000, x);
-    x=median(arr_3,n_3);
-     TEST_ASSERT_EQUAL_FLOAT( 8799.000000, x);
+    
+     TEST_ASSERT_EQUAL_FLOAT( 2, median(arr_1,n_1));
+    
+     TEST_ASSERT_EQUAL_FLOAT( 2.900000, median(arr_2,n_2));
+    
+     TEST_ASSERT_EQUAL_FLOAT( 8799.000000, median(arr_3,n_3));
 }
 void test_mode(void){
-     float x=mode(arr_1,n_1);
-     TEST_ASSERT_EQUAL_FLOAT( 1.000000, x);
-    x=mode(arr_2,n_2);
-     TEST_ASSERT_EQUAL_FLOAT( 2.900000, x);
-    x=mode(arr_3,n_3);
-     TEST_ASSERT_EQUAL_FLOAT( 69949.000000, x);
+     
+     TEST_ASSERT_EQUAL_FLOAT( 1.000000, mode(arr_1,n_1));
+    
+     TEST_ASSERT_EQUAL_FLOAT( 2.900000, mode(arr_2,n_2));
+
+     TEST_ASSERT_EQUAL_FLOAT( 69949.000000, mode(arr_3,n_3));
 }
 
 
