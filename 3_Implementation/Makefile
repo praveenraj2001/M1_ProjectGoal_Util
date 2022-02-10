@@ -1,5 +1,5 @@
 
-PROJ_NAME = project.c
+PROJ_NAME = project
 SRC= src/main.c\
 src/project.c\
 
@@ -34,9 +34,19 @@ build_test :
 run_test : build_test
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
+static_analysis:
+	cppcheck --enable=all $(SRC)
 
+dynamic_analysis: Build
+	valgrind ./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
+coverage:
+	gcc -fprofile-arcs -ftest-coverage $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcov -a $(call FixPath,$(PROJ_NAME).$(EXEC))
 
 clean:
 	$(RM) $(call FixPath,*.out)
+
+
 
 
