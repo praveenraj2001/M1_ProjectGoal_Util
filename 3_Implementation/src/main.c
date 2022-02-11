@@ -105,6 +105,7 @@ int main(){
         printf("\nValue of (a+b)^5 is %f ",a5_b5(a3,b3));
 
     default:
+     printf("You have entered a wrong option\n");
         break;
     }
 }   
