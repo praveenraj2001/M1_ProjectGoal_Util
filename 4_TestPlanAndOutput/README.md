@@ -3,7 +3,7 @@
 
 #### Test plan is created and verified on both manual and automated manner
 
-## HIGH LEVEL TEST PLAN
+## HIGH LEVEL TEST PLAN / Integrated test plan
 
 | Test ID (for selecting)| Description | Input | Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@
 
 #### Here below are the some of the *unity test/ unity framework* test plans there are so many but I have only mentiones some of the test cases here
 
-## LOW LEVEL TEST PLAN
+## LOW LEVEL TEST PLAN / Unit test plan
 
 | Test ID (for statistics)| Description | Input | Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
