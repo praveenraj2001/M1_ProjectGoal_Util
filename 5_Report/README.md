@@ -151,7 +151,7 @@
 
 | Test ID (for selecting)| Description | Input | Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
-| 01 | STATISTICS | 1  | STASTICS inputs|  ✓ |
+| 01 | STATISTICS | 1  | STATISTICS inputs|  ✓ |
 | 02 | PLAIN GEOMETRY | 2 | PLAIN GEOMETRY inputs |  ✓ |
 | 03 | MENSURATION | 3 | MENSURATION options | ✓ |
 | 04 | ALGEBRA | 4 | ALGEBRA values | ✓ |
