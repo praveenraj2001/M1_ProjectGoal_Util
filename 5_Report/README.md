@@ -49,6 +49,7 @@
 ![SOLO LEARN](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/0_Certificates/Sololearn.png)
 ![Hacker Earth](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/0_Certificates/HackerEarth.png)
   
+  ---
 
 ## Identifying features
  * It should give accurate values
@@ -66,6 +67,8 @@
 ## S.W.O.T analysis 
 ### This below images represents the S.W.O.T analysis that I've done
 ![SWOT](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/1_Requirements/SWOT-Analysis-Template.jpg)
+
+---
 
 ## Requirements
 
@@ -94,6 +97,8 @@
 ## Best Method Followed
  * Instead of making multiple loops for sorting here we have used qsort which is the best method to follow and it gives best results
 
+---
+
 # Design
  ## Behavioural Diagram
  * High Level Flow chart Behavioural Diagram:
@@ -120,6 +125,8 @@
    * from this Diagrams code is made 
    * low level and high level both are implimented
 
+---
+
    # Doxygen Documentation
 
 ## NOTE
@@ -134,7 +141,7 @@
 ![Doxy_ss6](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/6_ImagesAndVideos/Documentation/Documentation_page-0006.jpg)
 ![Doxy_ss7](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/6_ImagesAndVideos/Documentation/Documentation_page-0007.jpg)
 
-
+---
 
 # Test plan and output
 
@@ -188,6 +195,7 @@
   *  [x] Compared the data obtained with calculator
   *  [x] reasoned with the values because we have high precision than the calculator itself
 
+---
   
 ## About the code
 | Codacy,Codiga | CI | Unity | Dynamic Check | cppCheck | Linux build |
