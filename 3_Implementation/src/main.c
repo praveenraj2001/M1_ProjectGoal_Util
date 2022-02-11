@@ -60,6 +60,7 @@ int main(){
                 printf("Area of trapzoid = %f",trapezoid(a2,b2,h2));
                 break; 
             default:
+            printf("You have entered a wrong option\n");
                 break;
             }
 
@@ -91,6 +92,7 @@ int main(){
                 printf("Area and volume of CYLINDER is %f & %f ",cylinder_area(radius3,height3),cylinder_vol(radius3,height3));
                 break;
             default:
+            printf("You have entered a wrong option\n");
                 break;
             }
 

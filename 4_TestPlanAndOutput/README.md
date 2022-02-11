@@ -11,6 +11,7 @@
 | 02 | PLAIN GEOMETRY | 2 | PLAIN GEOMETRY inputs |  ✓ |
 | 03 | MENSURATION | 3 | MENSURATION options | ✓ |
 | 04 | ALGEBRA | 4 | ALGEBRA values | ✓ |
+| 05 | If selected wrong option | 5 | Exits(prints wrong option entered) | ✓ |
 
 | Test ID (for selecting)| Description | Input | Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
@@ -18,6 +19,7 @@
 | 02 | ELLIPSE,TRAPEZOID | 1 or 2 for selecting | outputs from Ellipse,Trapezoid |  ✓ |
 | 03 | SPHERE,CONE,CYLINDER | 1 or 2 or 3 for selecting | outputs from sphere,cone,cylinder | ✓ |
 | 04 | (a+b)^3,(a-b)^3,(a+b)^4,(a+b)^5 | a , b | ALGEBRA values | ✓ |
+| 05 | If selected wrong option | 5 | Exits(prints wrong option entered) | ✓ |
 
 
 #### Here below are the some of the *unity test/ unity framework* test plans there are so many but I have only mentiones some of the test cases here
