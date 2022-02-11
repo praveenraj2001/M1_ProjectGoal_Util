@@ -10,5 +10,5 @@
  * For code coverage
     * Type **make coverage** in terminal
  * For cleaning
-    * Type * **make clean** in terminal
+    * Type  ***make clean*** in terminal
   
