@@ -48,9 +48,7 @@
 
 ![SOLO LEARN](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/0_Certificates/Sololearn.png)
 ![Hacker Earth](https://github.com/praveenraj2001/M1_ProjectGoal_Util/blob/main/0_Certificates/HackerEarth.png)
-
-# Description
- * This Project is an Engineering Calculator and which is extremely useful to students and will save them time while doing some complex calculations   
+  
 
 ## Identifying features
  * It should give accurate values
